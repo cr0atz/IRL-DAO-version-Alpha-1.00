@@ -1,0 +1,18 @@
+Examine the codebase and troubleshoot.
+
+Follow the flow.
+
+When Admin logs in and clicks on my daos what should happen?
+
+Add debug print statements.
+
+Check logs.
+
+Test API if possible,
+Test with Curl if possible.
+
+Indentify the cause of the error.
+
+Plan how you will fix it. 
+
+Implement the solution 

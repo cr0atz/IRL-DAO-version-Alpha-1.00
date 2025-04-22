@@ -1,0 +1,73 @@
+
+Voting Qourum Color Change base on percent.
+0-49% RED
+50 - 89 BLUE
+90 - 100 Green
+
+----11/14/2022----
+1. Proposal.jsx 
+ ✔•fix "Active Members" propfile images
+ •replace this tut into comment section. --> https://buildspace.so/p/build-solidity-web3-app/lessons/welcome
+
+2. Home.jsx 
+ ✔•"Modal clear if it closes" to timeout 5sec clear.
+ ✔•add deposit to governance balance.
+ ✔•add reload page.
+ ✔•add switch (on/off) to adminpanel for proposal payment
+ ✔•Proposal Execution only mint token to a wallet address.
+ ✔•Fix mint token constant to 100 token only.
+ ✔•Add payment if proposal has an execution.
+ ✔•Show what kind of execution when creating a proposal with execution.
+ ✔•Dont show proposals if not a member.
+
+3. Create New Features
+ ✔•Create Admin panel 
+ ✔•Add Wallet Connect 
+ ✔•Fix Wallet Connect some minor errors when changing network.
+ ✔•Detect if connected wallet is using WalletConnect or Metamask
+ ✔•Fix Wallet Connect Signer Bug
+
+4. Creation.js
+ ✔•Fix captcha repeating chek.
+ ✔•Fix Quorum if how much percent balance left from the token transfer to the treasury will automatically the quorum.
+
+5. Settings.jsx
+ ✔•Fix users can only change avatar and name once a day.
+ ✔•Add features where they can insert customize avatars or NFT.
+ ✔•Fix deactivation of dao to send request into the database.
+ ✔•Add NFT Avatar is not working (This will work only if contract address is "Edition-Drop & NFT")
+ ✔•Fix Request and comment textbox not accepting Emoji. will cause MYSQL Error. --> and change dataset to utf8mb4, utf8mb4_unicode_ci, change the databse connection character set to utf8mb4.
+ ✔•Put emoji to deactivation request.
+
+6. Global Fix
+ ✔•Fix inputs that requires wallet to check if wallet is valid same to transfer DAO. (Add New Memeber, Execute Proposal, Dashboard Transfer DAO)
+ ✔•Create notification for ussers that will show them the DAO link if they are invited.
+
+7. REALs.js
+ ✔•Fix if member detects will auto add record. 
+
+8. AdminPanel.js
+ ✔•Fix SDK add provider and private key same from Home.js. 
+ ✔•Separate a load action for Axios. when activating powers from admin accounts
+
+10. Account.jsx
+ ✔•Add individual delete button on settings panel > notification tab
+ ✔•Tune the Account.jsx page
+
+9. Notification System
+ ✔•Add notification when proposing
+ ✔•Add notification when inviting a member
+ ✔•Add notification when some one joined the DAO
+ ✔•Dont insert notification to propose, only members.
+ ✔•Add notification when some one vote to your proposal
+ ✔•Add notification when some one commented on the DAO proposal you were in.
+ ✔•Add admin notification for new deactivation request
+ •Add notification when some one replies on your comment (future)
+
+10. Final Tuning
+ •Change all error logs same to open sea error popup.
+
+
+ Token: 0x9D68821cFF8A9f44B43B59a3F6F8ed60459f25d2
+ Wallet: 0x1a3A4e2754Bea7CaD5843790121589FE3b917D20
+ RPC: https://polygon-mumbai.g.alchemy.com/v2/UMdolQyJTpAgTNM-dd_l_fpwlawGVg7p 

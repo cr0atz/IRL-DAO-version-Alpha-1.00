@@ -1,0 +1,107 @@
+----Header.js----
+101919 - Axios getNotification error.
+101920 - Fail to copy address.
+101921 - Axios notifClicked error.
+101922 - Axios notifClear error
+
+----Creation.js----
+101923 - Axios get_status error.
+101924 - Axios checkAdmin error.
+
+----Account.jsx----
+101925 - Axios notifUpdate error.
+101926 - Axios getAllNotifications error.
+101927 - Axios removeAllNotifications error.
+101928 - Axios removeNotification error.
+
+----AdminPanel.jsx----
+101929 - Axios updateRequestStatus error.
+101930 - getSDK() error.
+101931 - getTokenBalance error.
+101932 - Axios updateExecVal error.
+101933 - Axios updateBlocks error.
+101934 - Fail to copy address.
+101935 - Axios updateAlias error.
+101936 - Axios updateClaimVal error.
+101937 - Axios updateExecSwitch error.
+101938 - Axios updateAdminSwitch error.
+101939 - Axios updateOptions error.
+101940 - Axios updateWebWallet error.
+101941 - Axios addAdminWallet error.
+101942 - Axios updateTokenContract error.
+101943 - Axios updatRPCURL error.
+101944 - Axios removeAdmin error.
+
+----Dashboard.jsx----
+101945 - getSDK() error.
+101946 - Axios transferDAO error.
+
+----Home.jsx----
+101947 - getSDK() error.
+101948 - getAllAddresses function error.
+101949 - getProfiles function error.
+101950 - getMembers function error.
+101951 - getCreation function error.
+101952 - checkBalances function error.
+101953 - checkNFTHolder function error.
+101954 - getProposals function error.
+101955 - getInvitee function error.
+101956 - mintNft function error.
+101957 - copyContract function error.
+101958 - copyWalletAddress function error.
+101959 - copyGovernanceAddress function error.
+101960 - copyMembersAddress function error.
+101961 - addToken function error.
+101962 - execute function error.
+101963 - executeProposal function error.
+101964 - handleDeposit function error.
+
+----Proposal.jsx----
+101965 - getSDK() error.
+101966 - getAllAddresses function error.
+101967 - checkNFTHolder function error.
+101968 - checkBalance function error.
+101969 - checkIfVoted function error.
+101970 - countVotes function error.
+101971 - getComments function error.
+101972 - getViewCount function error.
+101973 - getProposals function error.
+101974 - getAvatarsAndProfiles function error.
+101975 - submitVote function error.
+
+----REALs.jsx----
+101976 - handleDeactivate function error.
+101977 - handleRestore function error.
+
+----REALs.jsx----
+101978 - getSDK() error.
+101979 - getAllAddresses function error.
+101980 - checkNFTHolder function error.
+101981 - getAvatarsAndProfiles function error.
+101982 - getCreation function error.
+101983 - (Problem with the server) setName function error.
+101984 - addAvatar function error.
+
+----NFTCreate.js----
+101985 - getAdminAccounts function error.
+101986 - displayIMG function error.
+
+----EditionDrop.js----
+101987 - Axios get_config error.
+101988 - Axios checkAdmin function error.
+101989 - displayIMG function error.
+
+----DeployVote.js----
+101990 - getData function error.
+101991 - getAdminAccounts function error.
+101992 - displayIMG function error.
+
+----DeployToken.js----
+101993 - getConfig function error.
+101994 - getAdminAccounts function error.
+101995 - displayIMG function error.
+
+----CreateDAO.js----
+101996 - axiosFunctions function error.
+101997 - getAdminAccounts function error.
+000000 - function error.
